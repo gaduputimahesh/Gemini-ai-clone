@@ -5,7 +5,7 @@ A clone of the Gemini AI interface built with React.
 ## 🚀 Live Demo
 
 Check out the live version on Vercel:  
-[View ](https://gemini-ai-clone-8y5l70qqe-gaduputimaheshs-projects.vercel.app)
+[Live of gemini-ai](https://gemini-ai-clone-8y5l70qqe-gaduputimaheshs-projects.vercel.app)
 
 ## 📦 Installation
 
